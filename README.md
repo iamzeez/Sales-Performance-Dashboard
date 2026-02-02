@@ -14,8 +14,8 @@ This project analyzes year-over-year sales performance to support strategic deci
 The dataset simulates transactional sales for 2023–2024, including revenue, cost, profit, quantity, product, and date fields. Each row represents a sales record for a specific product in a specific month.
 
 ## Data Source
-Sales dataset (Excel)
-link:https://docs.google.com/spreadsheets/d/1YZWgCufi90NHWnakTVTrL5PyptFn8KOb/edit?usp=drive_link&ouid=110898791710591676378&rtpof=true&sd=true
+- Sales dataset (Excel)
+- Link:https://docs.google.com/spreadsheets/d/1YZWgCufi90NHWnakTVTrL5PyptFn8KOb/edit?usp=drive_link&ouid=110898791710591676378&rtpof=true&sd=true
 
 **Key columns include:**
 - Revenue
